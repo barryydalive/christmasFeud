@@ -1,0 +1,231 @@
+
+{
+  "Name a popular Christmas song": [
+    [
+       " Jingle Bells ",
+       45
+    ],
+    [
+       " White Christmas ",
+       16
+    ],
+    [
+       " Rudolph the Red Nose Reindeer ",
+       10
+    ],
+    [
+       " O Holy Night ",
+       8
+    ],
+    [
+       " Silver Bells ",
+       6
+    ],
+    [
+       " We Wish You a Merry Christmas ",
+       6
+    ],
+    [
+       " Silent Night ",
+       5
+    ],
+    [
+      "All I Want For Christmas", 4
+    ]
+ ],
+ "Name the best Christmas movie": [
+    [
+       " Elf ",
+       28
+    ],
+    [
+       " It’s a Wonderful Life ",
+       17
+    ],
+    [
+       " A Christmas Story ",
+       15
+    ],
+    [
+       " Home Alone/Home Alone 2 ",
+       13
+    ],
+    ["Die Hard", 12],
+    [
+       " Miracle on 34th Street ",
+       8
+    ],
+    [
+       " How the Grinch Stole Christmas ",
+       7
+    ]
+ ],
+  "Name one thing you do on Christmas Eve": [
+     [
+        " Attend church/mass ",
+        26
+     ],
+     [
+        " Open gifts ",
+        24
+     ],
+     [
+        " Party/celebrate with family/friends ",
+        12
+     ],
+     [
+        " Wrap gifts ",
+        9
+     ],
+     [
+        " Eat/drink ",
+        8
+     ],
+     [
+        " Play games/bingo ",
+        6
+     ]
+  ],
+  "Name something you put on a Christmas tree": [
+     [
+        " Ornaments ",
+        37
+     ],
+     [
+        " Lights ",
+        20
+     ],
+     [
+        " Star ",
+        18
+     ],
+     [
+        " Angel ",
+        15
+     ],
+     [
+        " Tinsel/garland ",
+        6
+     ]
+  ],
+  "Name one gift you should never get someone for Christmas": [
+     [
+        " Underwear ",
+        34
+     ],
+     [
+        " Vacuum Cleaner/cleaning supplies ",
+        13
+     ],
+     [
+        " Fruitcake ",
+        11
+     ],
+     [
+        " Socks ",
+        10
+     ],
+     [
+        " Weight loss item ",
+        9
+     ],
+     [
+        " Coal ",
+        7
+     ],
+     [
+        " Clothes/lingerie ",
+        6
+     ],
+     [
+        " Personal Hygiene items ",
+        5
+     ]
+  ],
+  "Name a Popular Christmas Book": [
+     [
+        " The Night Before Christmas ",
+        60
+     ],
+     [
+        " Polar Express ",
+        10
+     ],
+     [
+        " How the Grinch Stole Christmas ",
+        9
+     ],
+     [
+        " A Christmas Carol ",
+        7
+     ]
+  ],
+  "Name something you drink during Christmas time": [
+     [
+        " Eggnog ",
+        52
+     ],
+     [
+        " Wine ",
+        11
+     ],
+     [
+        " Hot chocolate/cocoa ",
+        11
+     ],
+     [
+        " Apple cider ",
+        10
+     ],
+     [
+        " Other alcoholic drink ",
+        6
+     ],
+     [
+        " Punch ",
+        4
+     ],
+     [
+        " Tea ",
+        3
+     ]
+  ],
+  "Name one of Santa’s reindeer": [
+     [
+        " Rudolph ",
+        28
+     ],
+     [
+        " Dasher ",
+        21
+     ],
+     [
+        " Dancer ",
+        11
+     ],
+     [
+        " Blitzen ",
+        11
+     ],
+     [
+        " Prancher ",
+        8
+     ],
+     [
+        " Vixon ",
+        6
+     ],
+     [
+        " Comet ",
+        5
+     ],
+     [
+        " Donner ",
+        4
+     ],
+     [
+        " Cupid ",
+        3
+     ]
+  ]
+}
